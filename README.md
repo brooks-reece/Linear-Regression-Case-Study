@@ -8,14 +8,19 @@ Our team analyzed a dataset of individual loans, providing information from cred
 
 ![Screenshot of Loans Dataframe](LoansDFChart.png)
 
-## Insights
-will most likely delete...
-
 ## Model Visualization
 
-This visual representation depicts a linear regression model
+These visual representations depict two different types of machine learning modeling that we used to predict interest rates based off of our dataset.
 
-![Screenshot of Interest Rates vs. Predicted Interest Rates](PredictedInterestRatesChart.png)
+**Random Forest Model**
+
+![Screenshot of Interest Rates vs. Predicted Interest Rates for Random Forest Model](NewRFChart.png)
+
+**Linear Regression Model**
+
+![Screenshot of Interest Rates vs. Predicted Interest Rates for Linear Regression Model](NewLRChart.png)
 
 ## Key Results and Recommendations
+Based off of our research and analysis, we've found that the two greatest factors that impact loan rates are **FICO score** and **loan length**.
 
+In order to attract more business owners to open loans with our bank, educating them on these factors will enhance the likelihood of their business.
