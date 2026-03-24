@@ -12,19 +12,33 @@ Our team analyzed a dataset of individual loans, providing information from cred
 
 These visual representations depict two different types of machine learning modeling that we used to predict interest rates based off of our dataset.
 
-**Random Forest Model**
-
-<img src="NewRFChart.png" alt="Screenshot of Interest Rates vs. Predicted Interest Rates for Random Forest Model" width="400" height="300">
-
-**Linear Regression Model**
-
-<img src="NewLRChart.png" alt="Screenshot of Interest Rates vs. Predicted Interest Rates for Linear Regression Model" width="400" height="300">
+<table>
+  <tr>
+    <td align="center">
+        <img src="NewRFChart.png" alt="Screenshot of Interest Rates vs. Predicted Interest Rates for Random Forest Model" width="400" height="300"><br>
+        <b>Random Forest Model</b>
+    </td>
+    <td align="center">
+        <img src="NewLRChart.png" alt="Screenshot of Interest Rates vs. Predicted Interest Rates for Linear Regression Model" width="400" height="300"><br>
+        <b>Linear Regression Model</b>
+    </td>
+  </tr>
+</table>
 
 ## Key Results and Recommendations
 Based off of our research and analysis, we've found that the two greatest factors that impact loan rates are **FICO score** and **loan length**.
 
 In order to attract more business owners to open loans with our bank, educating them on these factors will enhance the likelihood of their business.
 
-<img src="Interest Rate by FICO Score.png" alt="Screenshot of Interest Rates vs. FICO Score" width="400" height="300">
-
-<img src="InterestRatebyLoanLength.png" alt="Screenshot of Interest Rates vs. Loan Length" width="400" height="300">
+<table>
+  <tr>
+    <td align="center">
+        <img src="Interest Rate by FICO Score.png" alt="Screenshot of Interest Rates vs. FICO Score" width="400" height="300"><br>
+        <b>Interest Rates vs. FICO Score</b>
+    </td>
+    <td align="center">
+        <img src="InterestRatebyLoanLength.png" alt="Screenshot of Interest Rates vs. Loan Length" width="400" height="300"><br>
+        <b>Interest Rates vs. Loan Length</b>
+    </td>
+  </tr>
+</table>
