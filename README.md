@@ -6,7 +6,7 @@ Our team analyzed a dataset of individual loans, providing information from cred
 
 ## Data Overview
 
-![Screenshot of Loans Dataframe](LoansDFChart.png)
+![Screenshot of Loans Dataframe](visualizations/LoansDFChart.png)
 
 ## Model Visualization
 
@@ -15,11 +15,11 @@ These visual representations depict two different types of machine learning mode
 <table>
   <tr>
     <td align="center">
-        <img src="NewRFChart.png" alt="Screenshot of Interest Rates vs. Predicted Interest Rates for Random Forest Model" width="400" height="300"><br>
+        <img src="visualizations/NewRFChart.png" alt="Screenshot of Interest Rates vs. Predicted Interest Rates for Random Forest Model" width="400" height="300"><br>
         <b>Random Forest Model</b>
     </td>
     <td align="center">
-        <img src="NewLRChart.png" alt="Screenshot of Interest Rates vs. Predicted Interest Rates for Linear Regression Model" width="400" height="300"><br>
+        <img src="visualizations/NewLRChart.png" alt="Screenshot of Interest Rates vs. Predicted Interest Rates for Linear Regression Model" width="400" height="300"><br>
         <b>Linear Regression Model</b>
     </td>
   </tr>
@@ -33,11 +33,11 @@ In order to attract more business owners to open loans with our bank, educating 
 <table>
   <tr>
     <td align="center">
-        <img src="Interest Rate by FICO Score.png" alt="Screenshot of Interest Rates vs. FICO Score" width="400" height="300"><br>
+        <img src="visualizations/Interest Rate by FICO Score.png" alt="Screenshot of Interest Rates vs. FICO Score" width="400" height="300"><br>
         <b>Interest Rates vs. FICO Score</b>
     </td>
     <td align="center">
-        <img src="InterestRatebyLoanLength.png" alt="Screenshot of Interest Rates vs. Loan Length" width="400" height="300"><br>
+        <img src="visualizations/InterestRatebyLoanLength.png" alt="Screenshot of Interest Rates vs. Loan Length" width="400" height="300"><br>
         <b>Interest Rates vs. Loan Length</b>
     </td>
   </tr>
